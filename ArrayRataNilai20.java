@@ -39,5 +39,6 @@ public class ArrayRataNilai20 {
             predikat = "PERLU PENDAMPINGAN";
         }
         System.out.println("Predikat kelas: " + predikat);
+        input.close();
     }
 }
